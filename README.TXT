@@ -49,7 +49,14 @@ display.increment();
 
 17. (a && b!) || (a! && b)
 
-18.  
+18. No, it is 0 
+
+19. yes, you need to recreate or type again the code of your NumberDisplay object since it erases the previous ones that existed before the change.
+
+20. predict: - 11cat
+             - cat11
+   - it rather confuses me than surprise due to why it shows error when that code is typed.
+    
 
 
 
