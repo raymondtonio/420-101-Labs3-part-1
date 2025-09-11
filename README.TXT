@@ -37,6 +37,7 @@ display.increment();
 10. Error: non-static method getValue() cannot be referenced from a static context
 
 11. Error: '.class' expected
+    the correct way is this : display.setValue(5);
 
 13. 0
 
